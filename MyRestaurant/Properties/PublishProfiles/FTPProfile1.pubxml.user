@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcbN3vnnlgUeYsU508CnjlgAAAAACAAAAAAAQZgAAAAEAACAAAAAmfySmYdsPDJXkRFfN7WzTeSQLbGMTQtA/AmZbyhhpyAAAAAAOgAAAAAIAACAAAADRU2Wobrsp4Z2NDM4z6JALEa/TRLzHF8VHjN2QCXcRbyAAAABHqGL8TSLHYye62Wg12h61ue5tyDqzuP7NE1w7g3N6pUAAAACXw7g+0q/DBZOadIVwFDb2P6rBbWTfCwf2gHznnZ/gSQ2i6iSGELTXRcz2j5sRUn+apzUOzX8xiEu4UlydnRpA</EncryptedPassword>
+    <_PublishTargetUrl>ftp://1914741.win.studentserver.co.uk</_PublishTargetUrl>
+    <History>False|2022-02-28T10:31:46.3929584Z;False|2022-02-28T10:31:06.1783543+00:00;</History>
+  </PropertyGroup>
+</Project>
